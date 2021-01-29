@@ -3,10 +3,10 @@
         <p>„Audio pirtis” – tai audio instaliacija - lietuviškos pirties patyrimas garsais. Pirties apeigos kupinos unikalių garsų,
         kurie persipina su nuoširdžiomis žmonių emocijomis. Būtent šiuos garsus projekto autorės,
         Karolina Latvytė-Bibiano ir Judita Ragauskaitė, įamžino kartu su vietos pirtininkais.
-        Instaliacija buvo pristatyta 2020 rugsėjo 12 dieną vykusio „Fluxus” festivalio metu, Kaune.
+        Instaliacija buvo pristatyta 2020 m. rugsėjo 12 dieną vykusio „Fluxus” festivalio metu, Kaune.
         Audiopirtis.lt pasipildys trimis tinklalaidės „Žiauriai gerai” epizodais,
         kuriuose išgirsite daugiau pirties garsų bei susipažinsite su pirties bendruomene,
-        kuri puoselėja Lietuviškos pirties tradicijas, jas pritaikydami šiuolaikinės visuomenės ritmui.</p>
+        kuri puoselėja lietuviškos pirties tradicijas, jas pritaikydami šiuolaikinės visuomenės ritmui.</p>
     </div>
 </div>
 

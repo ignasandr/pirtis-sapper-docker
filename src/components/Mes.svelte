@@ -10,8 +10,8 @@ import Sponsors from "./Sponsors.svelte";
 			<p>Projekto autorės Karolina Latvytė-Bibiano ir Judita Ragauskaitė.
 				Projektas sukurtas kartu su „Kauno bienale” ir „Magic Carpets”.
 				Nuoširdžiai dėkojame už pagalbą ir bendradarbiavimą:
-				„Kaunas 3022”; „Ten kur gera”: Giedriui Bučiui, Astai Bučienei;
-				Ilonai Latvei ir visiems pirties bičiuliams. Projekto rėmėjas:  Lietuvos Kultūros taryba.
+				„Kaunas 2022”, "Kaunas3022"; „Ten kur gera”: Giedriui Bučui, Astai Bučienei;
+				Ilonai Latvei ir visiems pirties bičiuliams. Projekto rėmėjas: Lietuvos Kultūros taryba.
 			</p>
 		</div>
 	</div>
