@@ -3,7 +3,7 @@
 
 <div id="klausyti">
     <div class="description">
-            <p>Šis projektas skirtas pažinti bei garso pagalba nusikelti į Lietuvišką pirtį,
+            <p>Šis projektas skirtas pažinti bei garso pagalba nusikelti į lietuvišką pirtį,
             todėl rekomenduojama naudoti ausines, patogiai įsitaisyti ir mėgautis pirties garu. Linkime sušilti:</p>
         <div class="links">
             <a href="Audio">Instaliacija</a>
