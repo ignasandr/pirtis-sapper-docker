@@ -32,7 +32,9 @@
         bind:this={audio}
         bind:paused
         on:play={stopOthers}
-        src={audioPath}>
+        loop
+        src={audioPath}
+        >
         <track kind="captions">
     </audio>
 </div>
